@@ -9,9 +9,9 @@ This dataset is sourced from the popular Indian TV show "Shark Tank," where entr
 
 The goal is to assist entrepreneurs and future participants in understanding the appropriate amount of equity to offer and the funding to request to secure a deal. The analysis also highlights the popular industries that have attracted investment interest over the three seasons, among other insights. Above is a snapshot of the dashboard, and here is a quick detail of each file contained in the repository.
 
-
 1.  **PowerBI Directory:** Contains the raw PowerBI file for the project, including the dashboard mentioned above.
-2.  **Shark Tank Reports.pptx:** A presentation detailing the project and how it helps entrepreneurs prepare their pitches before appearing on the show.
-3.  **shark_tank_india_preparation.ipynb:** A Jupyter notebook where the preprocessing stages were performed, resulting in a cleaned CSV file.
-4.  **sharktank_india(clean).csv:** The cleaned dataset with the necessary columns for further analysis, used in both MySQL and PowerBI.
+2.  **MySQL Directory:** A raw SQL file required for the project.
+3.  **Shark Tank Reports.pptx:** A presentation detailing the project and how it helps entrepreneurs prepare their pitches before appearing on the show.
+4.  **shark_tank_india_preparation.ipynb:** A Jupyter notebook where the preprocessing stages were performed, resulting in a cleaned CSV file.
+5.  **sharktank_india(clean).csv:** The cleaned dataset with the necessary columns for further analysis, used in both MySQL and PowerBI.
 
